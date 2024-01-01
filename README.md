@@ -4,7 +4,7 @@ This project is a dynamic portfolio website built using Django, HTML, and CSS. I
 
 ## About Me
 
-I am a passionate and detail-oriented Django developer with a keen interest in creating visually appealing and functional web applications. My portfolio is a reflection of my skills, experience, and creativity.
+You can add a passionate and detail-oriented ass developer with a keen interest in creating visually appealing and functional web applications. this portfolio is a reflection of Your skills, experience, and creativity.
 
 ## Portfolio Overview
 
