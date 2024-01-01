@@ -20,3 +20,4 @@ This portfolio is designed and implemented with the following technologies:
 - **Projects Section:** Showcase of my notable projects with descriptions and links.
 - **Skills Section:** Highlighting the key technologies and tools I work with.
 - **Contact Section:** Ways to get in touch with me, including email and social media links.
+![Select skills to change _ Django site admin — Firefox Developer Edition 2024-01-01 20-19-33](https://github.com/Mu5alaf/Portfolio/assets/109148687/d0fc3ced-31e3-4162-bd0d-be371973bdf6)
